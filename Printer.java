@@ -25,7 +25,7 @@ public class Printer {
 
         int[] lotteryNums = new int[6];
         Random random = new Random();
-
+        System.out.println("Done");
 
     }
 }
